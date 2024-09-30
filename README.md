@@ -19,7 +19,7 @@ Welcome to my personal README! I'm HaddajiDev, also known as Ahmed Haddaji, and 
 - **Website:** [haddajidev.vercel.app](https://haddajidev.vercel.app)
 - **Games Portfolio:** [haddajidev.itch.io](https://haddajidev.itch.io/)
 
-Feel free to explore my work, ranging from indie game projects to backend-driven applications.
+Feel free to explore my work, ranging from indie game projects to web applications.
 
 ## Contact Me
 
