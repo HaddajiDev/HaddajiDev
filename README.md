@@ -9,7 +9,7 @@ Welcome to my personal README! I'm HaddajiDev, also known as Ahmed Haddaji, and 
 
 - **Experience:** 
   - **Game Development:** 5 years of experience in designing, developing, and delivering engaging games.
-  - **Web Development:** A few months of experience building websites and backend systems.
+  - **Web Development:** 1 year of experience building websites and backend systems.
   
 - **Passions:**
   - Developing immersive and fun game experiences.
